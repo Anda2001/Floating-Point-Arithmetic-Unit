@@ -1,0 +1,17 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/imports/new/CLAdder.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/ShiftLeft.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/RoundBlock.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/ShiftRight.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/Comparator.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/Adder.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/StandardizingBlock.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/OpEnable.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/NumberProcessingUnit.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/ROM.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/FPAdder.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sources_1/new/FPU.vhd"
+vhdl xil_defaultlib  "../../../FPU.srcs/sim_1/new/FPU_tb.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,28 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto df624a436f3f4fec89da789c02f9f3ac --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot FPU_tb_behav xil_defaultlib.FPU_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.ROM [rom_default]
+Compiling architecture behavioral of entity xil_defaultlib.OpEnable [openable_default]
+Compiling architecture behavioral of entity xil_defaultlib.Comparator [comparator_default]
+Compiling architecture behavioral of entity xil_defaultlib.ShiftRight [shiftright_default]
+Compiling architecture behavioral of entity xil_defaultlib.NumberProcessingUnit [numberprocessingunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.CLAadder [claadder_default]
+Compiling architecture behavioral of entity xil_defaultlib.Adder [adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.ShiftLeft [shiftleft_default]
+Compiling architecture behavioral of entity xil_defaultlib.RoundBlock [roundblock_default]
+Compiling architecture behavioral of entity xil_defaultlib.StandardizingBlock [standardizingblock_default]
+Compiling architecture behavioral of entity xil_defaultlib.FPAdder [fpadder_default]
+Compiling architecture behavioral of entity xil_defaultlib.FPU [fpu_default]
+Compiling architecture behavioral of entity xil_defaultlib.fpu_tb
+Built simulation snapshot FPU_tb_behav

@@ -1,0 +1,17 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sim_1/new/FPU_tb.vhd,1674036112,vhdl,,,,fpu_tb,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/imports/new/CLAdder.vhd,1670401495,vhdl,,,,claadder,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/Adder.vhd,1674041042,vhdl,,,,adder,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/Comparator.vhd,1670370497,vhdl,,,,comparator,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/FPAdder.vhd,1674037885,vhdl,,,,fpadder,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/FPU.vhd,1674025490,vhdl,,,,fpu,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/NumberProcessingUnit.vhd,1671606132,vhdl,,,,numberprocessingunit,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/OpEnable.vhd,1671605157,vhdl,,,,openable,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/ROM.vhd,1674035782,vhdl,,,,rom,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/RoundBlock.vhd,1674035097,vhdl,,,,roundblock,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/ShiftLeft.vhd,1674040008,vhdl,,,,shiftleft,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/ShiftRight.vhd,1671554192,vhdl,,,,shiftright,,,,,,,,
+D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/StandardizingBlock.vhd,1674040190,vhdl,,,,standardizingblock,,,,,,,,

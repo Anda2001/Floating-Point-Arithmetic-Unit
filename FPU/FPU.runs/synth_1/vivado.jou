@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Jan 18 13:24:08 2023
+# Process ID: 22644
+# Current directory: D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.runs/synth_1
+# Command line: vivado.exe -log FPU.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FPU.tcl
+# Log file: D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.runs/synth_1/FPU.vds
+# Journal file: D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source FPU.tcl -notrace

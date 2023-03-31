@@ -1,0 +1,26 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/imports/new/CLAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CLAadder
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/ShiftLeft.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ShiftLeft
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/RoundBlock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RoundBlock
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/ShiftRight.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ShiftRight
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/Comparator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Comparator
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Adder
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/StandardizingBlock.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity StandardizingBlock
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/OpEnable.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity OpEnable
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/NumberProcessingUnit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NumberProcessingUnit
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/ROM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ROM
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/FPAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FPAdder
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sources_1/new/FPU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FPU
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Faculta/IIIsem1/SCS/Lab/FPU/FPU.srcs/sim_1/new/FPU_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FPU_tb
